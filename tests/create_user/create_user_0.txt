@@ -1,0 +1,6 @@
+email: 3: A
+is_active: 0: true
+full_name: OkRddI
+password: 1: vd
+username: 1: 9D7y
+is_superuser: 1: false

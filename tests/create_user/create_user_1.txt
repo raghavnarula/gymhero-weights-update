@@ -1,0 +1,6 @@
+email: 2: 2@GGe 
+is_active: 0: true
+full_name: UV
+password: 1: 6U\
+username: 1: f
+is_superuser: 1: false
